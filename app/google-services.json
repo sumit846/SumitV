@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411719834925",
+    "project_id": "firbase-connection-5a121",
+    "storage_bucket": "firbase-connection-5a121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411719834925:android:70d1019b25b4dd7b08c7a4",
+        "android_client_info": {
+          "package_name": "com.example.sumit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCpVC03CSPhAXfPISlpkz5bBO-b2dRT5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
